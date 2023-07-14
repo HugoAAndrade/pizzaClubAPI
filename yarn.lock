@@ -39,10 +39,10 @@
   resolved "https://registry.npmjs.org/@prisma/engines-version/-/engines-version-4.17.0-26.6b0aef69b7cdfc787f822ecd7cdc76d5f1991584.tgz"
   integrity sha512-HHiUF6NixsldsP3JROq07TYBLEjXFKr6PdH8H4gK/XAoTmIplOJBCgrIUMrsRAnEuGyRoRLXKXWUb943+PFoKQ==
 
-"@prisma/engines@5.1.0-dev.5":
-  version "5.1.0-dev.5"
-  resolved "https://registry.npmjs.org/@prisma/engines/-/engines-5.1.0-dev.5.tgz"
-  integrity sha512-uqc7xorO2vUIfkton2QZ2VMbFwscJZ0ZO5uDxcR3o9Oe9igKvS8EKORTfJbcP2+1jqV1qdtZkgnfA70FQzooHg==
+"@prisma/engines@5.0.0":
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/@prisma/engines/-/engines-5.0.0.tgz#5249650eabe77c458c90f2be97d8210353c2e22e"
+  integrity sha512-kyT/8fd0OpWmhAU5YnY7eP31brW1q1YrTGoblWrhQJDiN/1K+Z8S1kylcmtjqx5wsUGcP1HBWutayA/jtyt+sg==
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.9"
@@ -793,12 +793,12 @@ picomatch@^2.0.4, picomatch@^2.2.1:
   resolved "https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz"
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
 
-prisma@^5.1.0-dev.5:
-  version "5.1.0-dev.5"
-  resolved "https://registry.npmjs.org/prisma/-/prisma-5.1.0-dev.5.tgz"
-  integrity sha512-pMvFnFDCBuTwhIJaLu5Ju8AUtAmbruljX2uVH+ISXkv/A3ccBWsRaulL6I96nlnFQA5x94AwsyaMsAgCDcXFUg==
+prisma@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/prisma/-/prisma-5.0.0.tgz#f6571c46dc2478172cb7bc1bb62d74026a2c2630"
+  integrity sha512-KYWk83Fhi1FH59jSpavAYTt2eoMVW9YKgu8ci0kuUnt6Dup5Qy47pcB4/TLmiPAbhGrxxSz7gsSnJcCmkyPANA==
   dependencies:
-    "@prisma/engines" "5.1.0-dev.5"
+    "@prisma/engines" "5.0.0"
 
 process-nextick-args@~2.0.0:
   version "2.0.1"
